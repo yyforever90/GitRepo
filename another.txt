@@ -1,1 +1,2 @@
 This is another text.
+See changes from master.
