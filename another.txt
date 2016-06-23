@@ -1,2 +1,3 @@
 This is another text.
 See changes from master.
+OK, I'm familiar to Git.
